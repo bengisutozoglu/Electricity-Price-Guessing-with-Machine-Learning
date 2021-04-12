@@ -5,7 +5,7 @@ Electricity Price Guessing with Machine Learning Algorithms
 <div>
   <h2> adasdasd </h2>
   <p> fasfasfasfasf </p>
-  <ul>
+  <ul style="list-style-type:square">
   <li>dasdasd </li>
     <li style="color:rgb(142,124,122)">dasdasd </li>
     <li>dasdasd </li>
