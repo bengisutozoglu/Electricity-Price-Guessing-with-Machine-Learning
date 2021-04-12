@@ -6,10 +6,10 @@ Electricity Price Guessing with Machine Learning Algorithms
   <h2> adasdasd </h2>
   <p> fasfasfasfasf </p>
   <ol>
-  <li>dasdasd <li>
-    <li>dasdasd <li>
-    <li>dasdasd <li>
-    <li>dasdasd <li>
-    <li>dasdasd <li>
+  <li>dasdasd </li>
+    <li>dasdasd </li>
+    <li>dasdasd </li>
+    <li>dasdasd </li>
+    <li>dasdasd </li>
   <ol>
   </div>
