@@ -17,3 +17,11 @@ Steps for the user to calculate the wholesale electricity price:
  The model must be trained only once by the computer to be used. The 1-time trained file will be saved as a pickle.
  When the program is run, the interface and then the graphics will be displayed sequentially.
  
+ ## Screenshots
+ 
+![image](https://user-images.githubusercontent.com/62267463/114468566-609a9100-9bf4-11eb-90f6-031503491160.png)
+
+![image](https://user-images.githubusercontent.com/62267463/114468800-b66f3900-9bf4-11eb-8182-56bfed4179ec.png)
+
+![image](https://user-images.githubusercontent.com/62267463/114468827-bff8a100-9bf4-11eb-827e-72462d309d18.png)
+
