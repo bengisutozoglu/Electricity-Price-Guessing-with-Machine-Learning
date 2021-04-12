@@ -4,3 +4,6 @@ Electricity Price Guessing with Machine Learning Algorithms
 <p> 
       afdklasjfikasljfikasjfkli <a href="https://globalaihub.com/">Buraya tıklayınız. </a>
 </p>
+adasdjklashdjhasjkldhasjkd
+asjfklasdjklasjdldaksljdkl
+asjdlşasjdkljaskld
