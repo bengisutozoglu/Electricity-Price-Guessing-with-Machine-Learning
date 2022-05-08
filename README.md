@@ -1,5 +1,5 @@
-# Electricity-Price-Guessing-with-Machine-Learning
-Electricity Price Guessing with Machine Learning Algorithms
+# Predicting Wholesale Electricity Prices with Machine Learning
+
 
 The purpose of the software is to predict electricity prices with different machine learning methods using average data for 2019. Estimation is performed using different regression methods. In the literature, the dependent variables of the week are days, seasons, demand amount, production amount and natural gas prices. 
 • The program is written in Python and can be used in any Python environment.
