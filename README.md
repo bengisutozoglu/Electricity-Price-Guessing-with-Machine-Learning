@@ -1,7 +1,8 @@
 # Predicting Wholesale Electricity Prices with Machine Learning
 
 
-The purpose of the software is to predict electricity prices with different machine learning methods using average data for 2019. Estimation is performed using different regression methods. In the literature, the dependent variables of the week are days, seasons, demand amount, production amount and natural gas prices. 
+The purpose of the software is to predict electricity prices with different machine learning methods using average data for 2019. Wholesale electricity prices are estimated by 9 different machine learning methods (K-Nearest Neighbors, Gradient Boosting Machines, Multilayer Perceptron, Random Forest, Ridge Regression, Support Vector Regression, LightGBM, Decision Tree, Kernel Ridge Regression). Python programming language and libraries were used in the project prepared within the scope of Middle East Technical University Virtual Campus.
+In the literature, the dependent variables of the week are days, seasons, demand amount, production amount and natural gas prices. 
 • The program is written in Python and can be used in any Python environment.
 
 Steps for the user to calculate the wholesale electricity price:
